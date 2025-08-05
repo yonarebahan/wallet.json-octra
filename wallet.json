@@ -1,0 +1,5 @@
+{
+  "priv": "privatekey",
+  "addr": "address",
+  "rpc": "https://octra.network"
+}
